@@ -1,0 +1,31 @@
+{
+    "name": "@loxjs/utils",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "A collection of utility functions",
+    "keywords": [
+        "utils",
+        "utilities",
+        "email",
+        "hash",
+        "wallet",
+        "obfuscate",
+        "shorten",
+        "Google",
+        "auth",
+        "oauth2"
+    ],
+    "dependencies": {
+        "@loxjs/google-auth": "^1.0.0"
+    },
+    "license": "MIT",
+    "author": "Zen Li",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/loxjs/utils"
+    },
+    "homepage": "https://github.com/loxjs/utils#readme",
+    "bugs": {
+        "url": "https://github.com/loxjs/utils/issues"
+    }
+}
